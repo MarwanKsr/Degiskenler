@@ -24,9 +24,9 @@ namespace Degisken
             Console.WriteLine(l1);
             Console.WriteLine(l2);
 
-            string adı = "Marwan";
+            string adi = "Marwan";
             string soyad = "Kaseer";
-            Console.WriteLine(adı + " " + soyad);
+            Console.WriteLine(adi + " " + soyad);
 
             float j1 = 0.50f;
             double d1 = 2.5;
@@ -42,6 +42,7 @@ namespace Degisken
             string str1 = Convert.ToString(d1);
 
             Console.WriteLine(DateTime.Now.ToString("dd.MM.yyyy"));
+
 
 
 
